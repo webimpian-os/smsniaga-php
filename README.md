@@ -18,7 +18,7 @@ $result->totalCharge;  // 0.1 (RM)
 ```
 
 > [!IMPORTANT]
-> SMS Niaga has no sandbox. Every `send()` delivers a real SMS and is charged. Use [`preview()`](#preview-for-free) to test for free.
+> There is no sandbox, so `send()` sends real, paid SMS. Test with [`preview()`](#preview-for-free).
 
 ## Contents
 
