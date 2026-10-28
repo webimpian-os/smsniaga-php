@@ -1,0 +1,22 @@
+{
+    "data": {
+        "uuid": "602f1e80-e71c-47be-a579-f7f023841724",
+        "user_uuid": "cec53eed-dbe4-4676-84db-be78289a66b6",
+        "name": "Aisyah",
+        "email": "aisyah@example.com",
+        "phone": "60123456789",
+        "group": [
+            {
+                "uuid": "4dc35488-1523-4581-8b43-8b7e24dc75fa",
+                "user_uuid": "cec53eed-dbe4-4676-84db-be78289a66b6",
+                "name": "Newsletter",
+                "created_at": "2021-01-11T01:49:40.000000Z",
+                "updated_at": "2021-04-28T18:20:13.000000Z"
+            }
+        ],
+        "created_at": "2020-12-27T05:02:15.000000Z",
+        "updated_at": "2020-12-27T05:02:15.000000Z"
+    },
+    "message": "Success",
+    "status_code": 200
+}

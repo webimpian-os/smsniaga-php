@@ -1,0 +1,28 @@
+{
+    "message": {
+        "uuid": "15f6e6f4-45e1-4478-94f5-f48ec6457397",
+        "body": "RM0 MYSHOP: Test 123",
+        "debit": 1000,
+        "created_at": "2020-12-27T04:36:46.000000Z"
+    },
+    "sender_id": {
+        "uuid": "d0f72f61-619f-4a70-b2ca-9bbc8afdeb3c",
+        "name": "MYSHOP",
+        "description": "MYSHOP",
+        "is_default": true,
+        "created_at": "2020-12-24 19:12:05",
+        "updated_at": "2020-12-24 19:12:05"
+    },
+    "count": {
+        "total": 1,
+        "delivered": 1
+    },
+    "stats": [
+        {
+            "phone": "60123456789",
+            "delivery_report": 1,
+            "delivery_report_code": "000",
+            "delivery_report_received": "2020-12-27 12:36:53"
+        }
+    ]
+}

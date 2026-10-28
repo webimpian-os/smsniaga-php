@@ -1,0 +1,12 @@
+{
+    "data": {
+        "uuid": "7eee89eb-d812-47f5-ad51-c022bf9fadb4",
+        "name": "HR",
+        "is_default": true,
+        "description": "HR",
+        "created_at": "2020-12-14T21:21:36.000000Z",
+        "updated_at": "2020-12-15T18:57:02.000000Z"
+    },
+    "message": "Success",
+    "status_code": 200
+}
