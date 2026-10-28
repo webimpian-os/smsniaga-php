@@ -1,0 +1,41 @@
+{
+    "name": "webimpian/smsniaga-php",
+    "description": "PHP SDK for the SMS Niaga API: send SMS, track delivery reports, and manage sender IDs, subscribers and groups.",
+    "type": "library",
+    "keywords": ["sms", "smsniaga", "sms-niaga", "bulk-sms", "malaysia", "sdk", "api"],
+    "homepage": "https://github.com/webimpian-os/smsniaga-php",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Khairul Imran",
+            "email": "infrastructure@webimpian.com"
+        }
+    ],
+    "require": {
+        "php": "^8.0",
+        "guzzlehttp/guzzle": "^7.15.2|^8.0.1"
+    },
+    "require-dev": {
+        "phpstan/phpstan": "^1.12|^2.0",
+        "phpunit/phpunit": "^9.6"
+    },
+    "autoload": {
+        "psr-4": {
+            "Webimpian\\SmsNiaga\\": "src/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "Webimpian\\SmsNiaga\\Tests\\": "tests/"
+        }
+    },
+    "scripts": {
+        "test": "phpunit",
+        "analyse": "phpstan analyse --memory-limit=512M"
+    },
+    "config": {
+        "sort-packages": true
+    },
+    "minimum-stability": "stable",
+    "prefer-stable": true
+}
