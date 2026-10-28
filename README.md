@@ -1,5 +1,6 @@
 # SMS Niaga PHP SDK
 
+[![Latest version](https://img.shields.io/packagist/v/webimpian/smsniaga-php)](https://packagist.org/packages/webimpian/smsniaga-php)
 [![tests](https://github.com/webimpian-os/smsniaga-php/actions/workflows/tests.yml/badge.svg)](https://github.com/webimpian-os/smsniaga-php/actions/workflows/tests.yml)
 ![PHP 8.0+](https://img.shields.io/badge/PHP-8.0%2B-777BB4?logo=php&logoColor=white)
 [![License: MIT](https://img.shields.io/badge/license-MIT-blue)](LICENSE.md)
